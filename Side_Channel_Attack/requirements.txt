@@ -1,0 +1,8 @@
+flask==2.3.3
+matplotlib>=3.8.0
+numpy>=1.26.0
+selenium==4.15.0
+webdriver-manager==4.0.1
+torch>=2.1.0
+scikit-learn>=1.5.2
+sqlalchemy>=2.0.0
